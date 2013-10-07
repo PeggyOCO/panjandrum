@@ -1,0 +1,13 @@
+name = Panjandrum
+project = "panjandrum"
+description = "Developing a QR code management system."
+core = 7.x
+package = "Other"
+version = 7.x-1.x-dev
+configure = admin/config/panjandrum
+
+; Information added by drupal.org packaging script on 2011-09-16
+version = "7.x-1.0-beta3"
+core = "7.x"
+project = "panjandrum"
+datestamp = "1381167271"
